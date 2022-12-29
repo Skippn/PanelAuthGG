@@ -1,2 +1,2 @@
 # PanelAuthGG
-C# Winform Admin Panel for Auth.GG
+C# winform admin panel for apps made with Auth.GG
